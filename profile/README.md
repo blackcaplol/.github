@@ -9,7 +9,7 @@ We’re a group of Whitecaplol fans who like making cool projects, sharing code,
 * [Avatar Customizer](https://github.com/blackcaplol/avatar-customizer) — made by [@OmegaXenon](https://github.com/OmegaXenon)
 
   * [@usrx215](https://github.com/usrx215) helped clean up the repository’s README.
-* [Whitecap GD Texture Pack](https://github.com/blackcaplol/whitecap-gd-texture-pack) — public repository
+* [Whitecap GD Texture Pack](https://github.com/blackcaplol/whitecap-gd-texture-pack) — made by [@iamorangewx](https://github.com/iamorangewx)
 
 ## Members
 
