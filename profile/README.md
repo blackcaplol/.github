@@ -1,12 +1,8 @@
-# [Blackcaplol](https://github.com/blackcaplol)
+# [Blackcaplol](https://github.com/blackcaplol) <img src="https://avatars.githubusercontent.com/u/310812962?s=200&v=4" width="32" height="32" alt="Blackcaplol avatar">
 
 ## A [Whitecaplol](https://github.com/whitecaplol) fan community
 
 We’re a group of Whitecaplol fans who like making cool projects, sharing code, and having fun.
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/310812962?s=200&v=4" width="160" alt="Blackcaplol logo">
-</p>
 
 ## Our Projects
 
