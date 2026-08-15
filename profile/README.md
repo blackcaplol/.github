@@ -22,3 +22,4 @@ We’re a group of Whitecaplol fans who like making cool projects, sharing code,
 
 * [Join the Discord server](https://discord.gg/EaGFvb75e6)
 * [Watch on YouTube](https://youtube.com/@whitecaplol)
+* [Blackcaplol YouTube](https://youtube.com/@blackcaplol)
